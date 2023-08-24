@@ -1,0 +1,70 @@
+.Logo{
+    width: 80px;
+    height:60px;
+padding-top: 20px;
+}
+.services{
+    margin-left: 100px;
+    color: white;
+}
+.services:hover{
+    color: aqua;
+}
+.P1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+background-color: rgb(105, 105, 214);
+}
+.About{
+    margin-left: 50px;
+    color: white;
+}
+.About:hover{
+    color: aqua;
+}
+.contact{
+    margin-left: 50px;
+    color: white;
+}
+.contact:hover{
+    color: aqua;
+}
+.Signup{
+    margin-left: 200px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: rgb(13, 73, 150);
+    border:none;
+    color: white;
+    
+}
+.Signup:hover{
+background-color: white;
+color: black;
+
+}
+.Signup:active{
+    background-color: rgb(29, 186, 29);
+    color: white;
+}
+.Arrow{
+    margin-right: 13px;
+}
+.Home{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Login{
+    margin-bottom: 20px;
+    margin-left: 15px;
+    cursor: pointer;
+    background-color: rgb(43, 131, 65);
+    border:none;
+}
+.Login:hover{
+    background-color: rgb(106, 217, 223);
+    color: black;
+}
+.Login:active{
+    background-color: rgb(43, 131, 65);
+}
